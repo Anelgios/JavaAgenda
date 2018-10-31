@@ -3,7 +3,14 @@ package outils;
 import java.io.*;
 
 public class IN {
-
+    /**
+     * Chaine de caractères String
+     * 
+     * Définie par la saisie d'une chaine de caractères par l'utilisateur 
+     * et vé
+     * 
+     * 
+     */
  public static String getString() {
   BufferedReader fe = new BufferedReader(new InputStreamReader(System.in));
   boolean erreur;

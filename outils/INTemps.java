@@ -1,5 +1,9 @@
 package outils;
 
+/**
+ * Classe INTemps
+ * 
+ */
 import java.util.regex.Pattern;
 
 public class INTemps {
